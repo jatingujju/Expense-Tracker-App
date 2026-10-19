@@ -1,0 +1,716 @@
+Date,Category,Description,Amount,Type,Payment_Method,Year,Month_Num,Month,Month_Name,Day,Weekday,Is_Weekend
+2025-10-01,Shopping,Gadget accessory,513.0,Expense,UPI,2025,10,2025-10,October,1,Wednesday,False
+2025-10-01,Food,Lunch,301.0,Expense,UPI,2025,10,2025-10,October,1,Wednesday,False
+2025-10-01,Uncategorized,Auto fare,202.0,Expense,Cash,2025,10,2025-10,October,1,Wednesday,False
+2025-10-01,Transport,Petrol,139.0,Expense,UPI,2025,10,2025-10,October,1,Wednesday,False
+2025-10-01,Salary,Monthly stipend / salary,35000.0,Income,Bank Transfer,2025,10,2025-10,October,1,Wednesday,False
+2025-10-02,Rent,Room rent,12000.0,Expense,UPI,2025,10,2025-10,October,2,Thursday,False
+2025-10-02,Food,Snacks,197.0,Expense,UPI,2025,10,2025-10,October,2,Thursday,False
+2025-10-02,Food,Cafe,346.0,Expense,Card,2025,10,2025-10,October,2,Thursday,False
+2025-10-03,Food,Lunch,153.0,Expense,UPI,2025,10,2025-10,October,3,Friday,False
+2025-10-04,Food,Cafe,282.0,Expense,Cash,2025,10,2025-10,October,4,Saturday,True
+2025-10-04,Food,Swiggy order,252.0,Expense,UPI,2025,10,2025-10,October,4,Saturday,True
+2025-10-05,Food,Cafe,245.0,Expense,UPI,2025,10,2025-10,October,5,Sunday,True
+2025-10-05,Food,Zomato order,70.0,Expense,Card,2025,10,2025-10,October,5,Sunday,True
+2025-10-05,Food,Cafe,372.0,Expense,UPI,2025,10,2025-10,October,5,Sunday,True
+2025-10-05,Food,Groceries,169.0,Expense,UPI,2025,10,2025-10,October,5,Sunday,True
+2025-10-05,Bills,Electricity bill,1032.0,Expense,UPI,2025,10,2025-10,October,5,Sunday,True
+2025-10-06,Transport,Bus ticket,76.0,Expense,UPI,2025,10,2025-10,October,6,Monday,False
+2025-10-07,Bills,Internet bill,799.0,Expense,UPI,2025,10,2025-10,October,7,Tuesday,False
+2025-10-07,Bills,Mobile recharge,299.0,Expense,UPI,2025,10,2025-10,October,7,Tuesday,False
+2025-10-07,Food,Dinner,273.0,Expense,UPI,2025,10,2025-10,October,7,Tuesday,False
+2025-10-10,Subscriptions,Cloud / domain hosting,450.0,Expense,Card,2025,10,2025-10,October,10,Friday,False
+2025-10-10,Transport,Petrol,114.0,Expense,Cash,2025,10,2025-10,October,10,Friday,False
+2025-10-10,Subscriptions,AI tools subscription,1650.0,Expense,Card,2025,10,2025-10,October,10,Friday,False
+2025-10-10,Transport,Bus ticket,192.0,Expense,UPI,2025,10,2025-10,October,10,Friday,False
+2025-10-11,Food,Swiggy order,271.0,Expense,UPI,2025,10,2025-10,October,11,Saturday,True
+2025-10-11,Transport,Metro recharge,103.0,Expense,UPI,2025,10,2025-10,October,11,Saturday,True
+2025-10-12,Freelance,n8n workflow client,5034.0,Income,Bank Transfer,2025,10,2025-10,October,12,Sunday,True
+2025-10-13,Food,Snacks,142.0,Expense,UPI,2025,10,2025-10,October,13,Monday,False
+2025-10-13,Entertainment,Outing with friends,519.0,Expense,UPI,2025,10,2025-10,October,13,Monday,False
+2025-10-14,Food,Dinner,191.0,Expense,UPI,2025,10,2025-10,October,14,Tuesday,False
+2025-10-14,Shopping,Accessories,829.0,Expense,Card,2025,10,2025-10,October,14,Tuesday,False
+2025-10-14,Food,Swiggy order,27.0,Expense,UPI,2025,10,2025-10,October,14,Tuesday,False
+2025-10-15,Food,Dinner,117.0,Expense,UPI,2025,10,2025-10,October,15,Wednesday,False
+2025-10-15,Food,Cafe,323.0,Expense,Cash,2025,10,2025-10,October,15,Wednesday,False
+2025-10-15,Shopping,Clothes,494.0,Expense,Net Banking,2025,10,2025-10,October,15,Wednesday,False
+2025-10-16,Transport,Uber ride,108.0,Expense,Card,2025,10,2025-10,October,16,Thursday,False
+2025-10-16,Shopping,Amazon order,972.0,Expense,UPI,2025,10,2025-10,October,16,Thursday,False
+2025-10-17,Food,Swiggy order,271.0,Expense,UPI,2025,10,2025-10,October,17,Friday,False
+2025-10-17,Shopping,Accessories,728.0,Expense,UPI,2025,10,2025-10,October,17,Friday,False
+2025-10-17,Food,Swiggy order,114.0,Expense,UPI,2025,10,2025-10,October,17,Friday,False
+2025-10-18,Food,Zomato order,262.0,Expense,UPI,2025,10,2025-10,October,18,Saturday,True
+2025-10-18,Food,Lunch,239.0,Expense,UPI,2025,10,2025-10,October,18,Saturday,True
+2025-10-18,Food,Zomato order,225.0,Expense,Card,2025,10,2025-10,October,18,Saturday,True
+2025-10-19,Food,Snacks,184.0,Expense,UPI,2025,10,2025-10,October,19,Sunday,True
+2025-10-19,Shopping,Accessories,587.0,Expense,Card,2025,10,2025-10,October,19,Sunday,True
+2025-10-20,Education,Books,1957.0,Expense,Card,2025,10,2025-10,October,20,Monday,False
+2025-10-20,Entertainment,Concert pass,262.0,Expense,UPI,2025,10,2025-10,October,20,Monday,False
+2025-10-21,Transport,Uber ride,20.0,Expense,Cash,2025,10,2025-10,October,21,Tuesday,False
+2025-10-21,Shopping,Amazon order,662.0,Expense,Card,2025,10,2025-10,October,21,Tuesday,False
+2025-10-22,Transport,Uber ride,58.0,Expense,UPI,2025,10,2025-10,October,22,Wednesday,False
+2025-10-22,Food,Dinner,432.0,Expense,Card,2025,10,2025-10,October,22,Wednesday,False
+2025-10-23,Transport,Metro recharge,114.0,Expense,UPI,2025,10,2025-10,October,23,Thursday,False
+2025-10-25,Food,Snacks,379.0,Expense,UPI,2025,10,2025-10,October,25,Saturday,True
+2025-10-25,Food,Dinner,221.0,Expense,UPI,2025,10,2025-10,October,25,Saturday,True
+2025-10-25,Shopping,Gadget accessory,1317.0,Expense,Net Banking,2025,10,2025-10,October,25,Saturday,True
+2025-10-25,Food,Groceries,124.0,Expense,Cash,2025,10,2025-10,October,25,Saturday,True
+2025-10-26,Food,Swiggy order,370.0,Expense,UPI,2025,10,2025-10,October,26,Sunday,True
+2025-10-26,Food,Snacks,206.0,Expense,UPI,2025,10,2025-10,October,26,Sunday,True
+2025-10-26,Freelance,Data dashboard gig,10041.0,Income,Bank Transfer,2025,10,2025-10,October,26,Sunday,True
+2025-10-28,Transport,Metro recharge,262.0,Expense,Cash,2025,10,2025-10,October,28,Tuesday,False
+2025-10-29,Food,Zomato order,304.0,Expense,Cash,2025,10,2025-10,October,29,Wednesday,False
+2025-10-30,Transport,Auto fare,58.0,Expense,UPI,2025,10,2025-10,October,30,Thursday,False
+2025-11-01,Salary,Monthly stipend / salary,35000.0,Income,Bank Transfer,2025,11,2025-11,November,1,Saturday,True
+2025-11-01,Food,Cafe,269.0,Expense,UPI,2025,11,2025-11,November,1,Saturday,True
+2025-11-01,Transport,Metro recharge,29.0,Expense,UPI,2025,11,2025-11,November,1,Saturday,True
+2025-11-01,Food,Swiggy order,259.0,Expense,Card,2025,11,2025-11,November,1,Saturday,True
+2025-11-02,Food,Swiggy order,252.0,Expense,UPI,2025,11,2025-11,November,2,Sunday,True
+2025-11-02,Rent,Room rent,12000.0,Expense,UPI,2025,11,2025-11,November,2,Sunday,True
+2025-11-03,Shopping,Clothes,1280.0,Expense,Net Banking,2025,11,2025-11,November,3,Monday,False
+2025-11-03,Food,Swiggy order,218.0,Expense,Card,2025,11,2025-11,November,3,Monday,False
+2025-11-04,Transport,Uber ride,20.0,Expense,UPI,2025,11,2025-11,November,4,Tuesday,False
+2025-11-05,Food,Groceries,78.0,Expense,UPI,2025,11,2025-11,November,5,Wednesday,False
+2025-11-05,Transport,Petrol,107.0,Expense,UPI,2025,11,2025-11,November,5,Wednesday,False
+2025-11-05,Shopping,Gadget accessory,962.0,Expense,Card,2025,11,2025-11,November,5,Wednesday,False
+2025-11-05,Transport,Metro recharge,20.0,Expense,Cash,2025,11,2025-11,November,5,Wednesday,False
+2025-11-05,Bills,Electricity bill,847.0,Expense,UPI,2025,11,2025-11,November,5,Wednesday,False
+2025-11-06,Transport,Uber ride,112.0,Expense,Cash,2025,11,2025-11,November,6,Thursday,False
+2025-11-07,Bills,Internet bill,799.0,Expense,UPI,2025,11,2025-11,November,7,Friday,False
+2025-11-07,Food,Lunch,203.0,Expense,Card,2025,11,2025-11,November,7,Friday,False
+2025-11-07,Bills,Mobile recharge,299.0,Expense,UPI,2025,11,2025-11,November,7,Friday,False
+2025-11-07,Food,Dinner,20.0,Expense,Cash,2025,11,2025-11,November,7,Friday,False
+2025-11-07,Shopping,Clothes,554.0,Expense,UPI,2025,11,2025-11,November,7,Friday,False
+2025-11-08,Entertainment,Movie ticket,536.0,Expense,UPI,2025,11,2025-11,November,8,Saturday,True
+2025-11-08,Food,Lunch,89.0,Expense,UPI,2025,11,2025-11,November,8,Saturday,True
+2025-11-09,Transport,Uber ride,170.0,Expense,UPI,2025,11,2025-11,November,9,Sunday,True
+2025-11-09,Entertainment,Concert pass,125.0,Expense,UPI,2025,11,2025-11,November,9,Sunday,True
+2025-11-09,Food,Zomato order,173.0,Expense,UPI,2025,11,2025-11,November,9,Sunday,True
+2025-11-10,Subscriptions,Cloud / domain hosting,450.0,Expense,Card,2025,11,2025-11,November,10,Monday,False
+2025-11-10,Food,Zomato order,218.0,Expense,UPI,2025,11,2025-11,November,10,Monday,False
+2025-11-10,Subscriptions,AI tools subscription,1650.0,Expense,Card,2025,11,2025-11,November,10,Monday,False
+2025-11-11,Food,Groceries,228.0,Expense,UPI,2025,11,2025-11,November,11,Tuesday,False
+2025-11-13,Food,Swiggy order,122.0,Expense,Card,2025,11,2025-11,November,13,Thursday,False
+2025-11-13,Food,Dinner,289.0,Expense,UPI,2025,11,2025-11,November,13,Thursday,False
+2025-11-14,Food,Dinner,156.0,Expense,Cash,2025,11,2025-11,November,14,Friday,False
+2025-11-14,Food,Groceries,293.0,Expense,Cash,2025,11,2025-11,November,14,Friday,False
+2025-11-15,Food,Cafe,198.0,Expense,Cash,2025,11,2025-11,November,15,Saturday,True
+2025-11-16,Food,Swiggy order,82.0,Expense,Card,2025,11,2025-11,November,16,Sunday,True
+2025-11-16,Food,Swiggy order,177.0,Expense,Card,2025,11,2025-11,November,16,Sunday,True
+2025-11-16,Food,Groceries,222.0,Expense,UPI,2025,11,2025-11,November,16,Sunday,True
+2025-11-17,Food,Groceries,242.0,Expense,UPI,2025,11,2025-11,November,17,Monday,False
+2025-11-17,Food,Dinner,187.0,Expense,UPI,2025,11,2025-11,November,17,Monday,False
+2025-11-17,Food,Swiggy order,363.0,Expense,UPI,2025,11,2025-11,November,17,Monday,False
+2025-11-17,Food,Snacks,379.0,Expense,UPI,2025,11,2025-11,November,17,Monday,False
+2025-11-18,Food,Swiggy order,70.0,Expense,Card,2025,11,2025-11,November,18,Tuesday,False
+2025-11-20,Food,Groceries,132.0,Expense,UPI,2025,11,2025-11,November,20,Thursday,False
+2025-11-20,Food,Swiggy order,201.0,Expense,UPI,2025,11,2025-11,November,20,Thursday,False
+2025-11-21,Food,Groceries,316.0,Expense,UPI,2025,11,2025-11,November,21,Friday,False
+2025-11-21,Shopping,Clothes,985.0,Expense,Card,2025,11,2025-11,November,21,Friday,False
+2025-11-22,Food,Snacks,128.0,Expense,UPI,2025,11,2025-11,November,22,Saturday,True
+2025-11-22,Shopping,Household items,1720.0,Expense,UPI,2025,11,2025-11,November,22,Saturday,True
+2025-11-22,Food,Dinner,20.0,Expense,Card,2025,11,2025-11,November,22,Saturday,True
+2025-11-22,Transport,Bus ticket,81.0,Expense,Card,2025,11,2025-11,November,22,Saturday,True
+2025-11-22,Food,Zomato order,206.0,Expense,Cash,2025,11,2025-11,November,22,Saturday,True
+2025-11-23,Transport,Bus ticket,197.0,Expense,Card,2025,11,2025-11,November,23,Sunday,True
+2025-11-24,Food,Cafe,302.0,Expense,UPI,2025,11,2025-11,November,24,Monday,False
+2025-11-24,Food,Snacks,70.0,Expense,UPI,2025,11,2025-11,November,24,Monday,False
+2025-11-25,Food,Cafe,188.0,Expense,UPI,2025,11,2025-11,November,25,Tuesday,False
+2025-11-25,Food,Lunch,172.0,Expense,Card,2025,11,2025-11,November,25,Tuesday,False
+2025-11-26,Shopping,Accessories,1161.0,Expense,Card,2025,11,2025-11,November,26,Wednesday,False
+2025-11-26,Food,Lunch,20.0,Expense,UPI,2025,11,2025-11,November,26,Wednesday,False
+2025-11-26,Transport,Metro recharge,20.0,Expense,UPI,2025,11,2025-11,November,26,Wednesday,False
+2025-11-27,Health,Pharmacy,81.0,Expense,Card,2025,11,2025-11,November,27,Thursday,False
+2025-11-28,Food,Groceries,388.0,Expense,UPI,2025,11,2025-11,November,28,Friday,False
+2025-11-29,Food,Snacks,69.0,Expense,UPI,2025,11,2025-11,November,29,Saturday,True
+2025-11-30,Transport,Bus ticket,197.0,Expense,Card,2025,11,2025-11,November,30,Sunday,True
+2025-11-30,Food,Groceries,456.0,Expense,UPI,2025,11,2025-11,November,30,Sunday,True
+2025-11-30,Food,Groceries,105.0,Expense,UPI,2025,11,2025-11,November,30,Sunday,True
+2025-12-01,Salary,Monthly stipend / salary,35000.0,Income,Bank Transfer,2025,12,2025-12,December,1,Monday,False
+2025-12-01,Shopping,Clothes,789.0,Expense,Net Banking,2025,12,2025-12,December,1,Monday,False
+2025-12-01,Food,Cafe,305.0,Expense,UPI,2025,12,2025-12,December,1,Monday,False
+2025-12-02,Rent,Room rent,12000.0,Expense,UPI,2025,12,2025-12,December,2,Tuesday,False
+2025-12-05,Bills,Electricity bill,980.0,Expense,UPI,2025,12,2025-12,December,5,Friday,False
+2025-12-05,Transport,Auto fare,125.0,Expense,UPI,2025,12,2025-12,December,5,Friday,False
+2025-12-07,Bills,Mobile recharge,299.0,Expense,UPI,2025,12,2025-12,December,7,Sunday,True
+2025-12-07,Bills,Internet bill,799.0,Expense,UPI,2025,12,2025-12,December,7,Sunday,True
+2025-12-07,Shopping,Gadget accessory,396.0,Expense,UPI,2025,12,2025-12,December,7,Sunday,True
+2025-12-08,Transport,Bus ticket,194.0,Expense,UPI,2025,12,2025-12,December,8,Monday,False
+2025-12-09,Food,Lunch,318.0,Expense,Card,2025,12,2025-12,December,9,Tuesday,False
+2025-12-09,Food,Snacks,279.0,Expense,Cash,2025,12,2025-12,December,9,Tuesday,False
+2025-12-09,Shopping,Household items,1822.0,Expense,Net Banking,2025,12,2025-12,December,9,Tuesday,False
+2025-12-10,Transport,Metro recharge,227.0,Expense,UPI,2025,12,2025-12,December,10,Wednesday,False
+2025-12-10,Subscriptions,Cloud / domain hosting,450.0,Expense,Card,2025,12,2025-12,December,10,Wednesday,False
+2025-12-10,Subscriptions,AI tools subscription,1650.0,Expense,Card,2025,12,2025-12,December,10,Wednesday,False
+2025-12-12,Transport,Metro recharge,141.0,Expense,UPI,2025,12,2025-12,December,12,Friday,False
+2025-12-12,Travel,Train tickets,1084.0,Expense,UPI,2025,12,2025-12,December,12,Friday,False
+2025-12-13,Travel,Hotel stay,1253.0,Expense,Card,2025,12,2025-12,December,13,Saturday,True
+2025-12-13,Food,Snacks,254.0,Expense,Cash,2025,12,2025-12,December,13,Saturday,True
+2025-12-14,Travel,Hotel stay,1060.0,Expense,Card,2025,12,2025-12,December,14,Sunday,True
+2025-12-14,Transport,Auto fare,81.0,Expense,UPI,2025,12,2025-12,December,14,Sunday,True
+2025-12-16,Shopping,Amazon order,1010.0,Expense,Net Banking,2025,12,2025-12,December,16,Tuesday,False
+2025-12-17,Food,Zomato order,233.0,Expense,UPI,2025,12,2025-12,December,17,Wednesday,False
+2025-12-17,Entertainment,Outing with friends,253.0,Expense,UPI,2025,12,2025-12,December,17,Wednesday,False
+2025-12-17,Food,Dinner,29.0,Expense,Card,2025,12,2025-12,December,17,Wednesday,False
+2025-12-17,Transport,Uber ride,168.0,Expense,UPI,2025,12,2025-12,December,17,Wednesday,False
+2025-12-18,Transport,Auto fare,263.0,Expense,Cash,2025,12,2025-12,December,18,Thursday,False
+2025-12-19,Food,Zomato order,322.0,Expense,UPI,2025,12,2025-12,December,19,Friday,False
+2025-12-20,Entertainment,OTT add-on,133.0,Expense,Card,2025,12,2025-12,December,20,Saturday,True
+2025-12-22,Travel,Flight tickets (home trip),14500.0,Expense,Card,2025,12,2025-12,December,22,Monday,False
+2025-12-22,Entertainment,OTT add-on,34.0,Expense,UPI,2025,12,2025-12,December,22,Monday,False
+2025-12-23,Food,Lunch,151.0,Expense,UPI,2025,12,2025-12,December,23,Tuesday,False
+2025-12-23,Food,Lunch,191.0,Expense,UPI,2025,12,2025-12,December,23,Tuesday,False
+2025-12-23,Food,Lunch,257.0,Expense,UPI,2025,12,2025-12,December,23,Tuesday,False
+2025-12-23,Food,Groceries,189.0,Expense,Cash,2025,12,2025-12,December,23,Tuesday,False
+2025-12-23,Food,Dinner,330.0,Expense,UPI,2025,12,2025-12,December,23,Tuesday,False
+2025-12-23,Food,Swiggy order,148.0,Expense,UPI,2025,12,2025-12,December,23,Tuesday,False
+2025-12-24,Food,Groceries,209.0,Expense,UPI,2025,12,2025-12,December,24,Wednesday,False
+2025-12-25,Food,Lunch,324.0,Expense,Cash,2025,12,2025-12,December,25,Thursday,False
+2025-12-26,Transport,Uber ride,128.0,Expense,UPI,2025,12,2025-12,December,26,Friday,False
+2025-12-26,Freelance,Data dashboard gig,12343.0,Income,Bank Transfer,2025,12,2025-12,December,26,Friday,False
+2025-12-26,Transport,Bus ticket,128.0,Expense,UPI,2025,12,2025-12,December,26,Friday,False
+2025-12-28,Transport,Bus ticket,174.0,Expense,UPI,2025,12,2025-12,December,28,Sunday,True
+2025-12-29,Food,Swiggy order,273.0,Expense,UPI,2025,12,2025-12,December,29,Monday,False
+2025-12-29,Health,Doctor consultation,377.0,Expense,UPI,2025,12,2025-12,December,29,Monday,False
+2025-12-29,Food,Zomato order,184.0,Expense,Card,2025,12,2025-12,December,29,Monday,False
+2025-12-29,Transport,Petrol,149.0,Expense,UPI,2025,12,2025-12,December,29,Monday,False
+2025-12-30,Entertainment,Outing with friends,221.0,Expense,UPI,2025,12,2025-12,December,30,Tuesday,False
+2025-12-31,Food,Cafe,274.0,Expense,UPI,2025,12,2025-12,December,31,Wednesday,False
+2026-01-01,Food,Swiggy order,371.0,Expense,Card,2026,1,2026-01,January,1,Thursday,False
+2026-01-01,Food,Groceries,220.0,Expense,UPI,2026,1,2026-01,January,1,Thursday,False
+2026-01-01,Transport,Uber ride,149.0,Expense,Cash,2026,1,2026-01,January,1,Thursday,False
+2026-01-01,Food,Groceries,184.0,Expense,UPI,2026,1,2026-01,January,1,Thursday,False
+2026-01-01,Salary,Monthly stipend / salary,35000.0,Income,Bank Transfer,2026,1,2026-01,January,1,Thursday,False
+2026-01-02,Rent,Room rent,12000.0,Expense,UPI,2026,1,2026-01,January,2,Friday,False
+2026-01-05,Shopping,Amazon order,1177.0,Expense,UPI,2026,1,2026-01,January,5,Monday,False
+2026-01-05,Bills,Electricity bill,1023.0,Expense,UPI,2026,1,2026-01,January,5,Monday,False
+2026-01-05,Health,Gym day pass,450.0,Expense,UPI,2026,1,2026-01,January,5,Monday,False
+2026-01-05,Entertainment,Gaming,458.0,Expense,UPI,2026,1,2026-01,January,5,Monday,False
+2026-01-06,Food,Groceries,307.0,Expense,Cash,2026,1,2026-01,January,6,Tuesday,False
+2026-01-06,Food,Swiggy order,139.0,Expense,UPI,2026,1,2026-01,January,6,Tuesday,False
+2026-01-07,Food,Dinner,338.0,Expense,UPI,2026,1,2026-01,January,7,Wednesday,False
+2026-01-07,Food,Cafe,462.0,Expense,UPI,2026,1,2026-01,January,7,Wednesday,False
+2026-01-07,Bills,Internet bill,799.0,Expense,UPI,2026,1,2026-01,January,7,Wednesday,False
+2026-01-07,Food,Zomato order,241.0,Expense,UPI,2026,1,2026-01,January,7,Wednesday,False
+2026-01-07,Food,Zomato order,370.0,Expense,UPI,2026,1,2026-01,January,7,Wednesday,False
+2026-01-07,Bills,Mobile recharge,299.0,Expense,UPI,2026,1,2026-01,January,7,Wednesday,False
+2026-01-07,Food,Groceries,215.0,Expense,Cash,2026,1,2026-01,January,7,Wednesday,False
+2026-01-08,Transport,Metro recharge,124.0,Expense,UPI,2026,1,2026-01,January,8,Thursday,False
+2026-01-09,Food,Snacks,216.0,Expense,Card,2026,1,2026-01,January,9,Friday,False
+2026-01-09,Food,Cafe,236.0,Expense,Card,2026,1,2026-01,January,9,Friday,False
+2026-01-10,Transport,Petrol,251.0,Expense,Card,2026,1,2026-01,January,10,Saturday,True
+2026-01-10,Food,Snacks,306.0,Expense,Card,2026,1,2026-01,January,10,Saturday,True
+2026-01-10,Subscriptions,Cloud / domain hosting,450.0,Expense,Card,2026,1,2026-01,January,10,Saturday,True
+2026-01-10,Subscriptions,AI tools subscription,1650.0,Expense,Card,2026,1,2026-01,January,10,Saturday,True
+2026-01-11,Food,Snacks,101.0,Expense,UPI,2026,1,2026-01,January,11,Sunday,True
+2026-01-12,Freelance,AI automation project,8363.0,Income,Bank Transfer,2026,1,2026-01,January,12,Monday,False
+2026-01-12,Food,Swiggy order,238.0,Expense,UPI,2026,1,2026-01,January,12,Monday,False
+2026-01-13,Food,Swiggy order,204.0,Expense,UPI,2026,1,2026-01,January,13,Tuesday,False
+2026-01-13,Shopping,Gadget accessory,782.0,Expense,UPI,2026,1,2026-01,January,13,Tuesday,False
+2026-01-14,Food,Dinner,234.0,Expense,Card,2026,1,2026-01,January,14,Wednesday,False
+2026-01-15,Food,Cafe,275.0,Expense,UPI,2026,1,2026-01,January,15,Thursday,False
+2026-01-15,Health,Pharmacy,432.0,Expense,UPI,2026,1,2026-01,January,15,Thursday,False
+2026-01-16,Food,Swiggy order,148.0,Expense,Cash,2026,1,2026-01,January,16,Friday,False
+2026-01-16,Food,Dinner,206.0,Expense,UPI,2026,1,2026-01,January,16,Friday,False
+2026-01-16,Food,Cafe,117.0,Expense,Card,2026,1,2026-01,January,16,Friday,False
+2026-01-16,Transport,Bus ticket,115.0,Expense,UPI,2026,1,2026-01,January,16,Friday,False
+2026-01-17,Food,Zomato order,265.0,Expense,UPI,2026,1,2026-01,January,17,Saturday,True
+2026-01-17,Food,Cafe,105.0,Expense,Card,2026,1,2026-01,January,17,Saturday,True
+2026-01-18,Food,Cafe,217.0,Expense,UPI,2026,1,2026-01,January,18,Sunday,True
+2026-01-18,Shopping,Amazon order,1770.0,Expense,Card,2026,1,2026-01,January,18,Sunday,True
+2026-01-20,Education,Books,1443.0,Expense,Card,2026,1,2026-01,January,20,Tuesday,False
+2026-01-20,Food,Zomato order,162.0,Expense,UPI,2026,1,2026-01,January,20,Tuesday,False
+2026-01-22,Food,Snacks,304.0,Expense,UPI,2026,1,2026-01,January,22,Thursday,False
+2026-01-22,Shopping,Gadget accessory,939.0,Expense,UPI,2026,1,2026-01,January,22,Thursday,False
+2026-01-22,Food,Lunch,280.0,Expense,Cash,2026,1,2026-01,January,22,Thursday,False
+2026-01-22,Food,Groceries,283.0,Expense,Cash,2026,1,2026-01,January,22,Thursday,False
+2026-01-23,Shopping,Accessories,1658.0,Expense,Card,2026,1,2026-01,January,23,Friday,False
+2026-01-24,Food,Cafe,259.0,Expense,UPI,2026,1,2026-01,January,24,Saturday,True
+2026-01-24,Food,Snacks,170.0,Expense,UPI,2026,1,2026-01,January,24,Saturday,True
+2026-01-26,Freelance,n8n workflow client,7355.0,Income,Bank Transfer,2026,1,2026-01,January,26,Monday,False
+2026-01-26,Food,Lunch,194.0,Expense,UPI,2026,1,2026-01,January,26,Monday,False
+2026-01-26,Food,Groceries,376.0,Expense,Cash,2026,1,2026-01,January,26,Monday,False
+2026-01-27,Transport,Bus ticket,138.0,Expense,UPI,2026,1,2026-01,January,27,Tuesday,False
+2026-01-27,Food,Swiggy order,306.0,Expense,UPI,2026,1,2026-01,January,27,Tuesday,False
+2026-01-28,Transport,Bus ticket,72.0,Expense,UPI,2026,1,2026-01,January,28,Wednesday,False
+2026-01-28,Food,Groceries,310.0,Expense,Cash,2026,1,2026-01,January,28,Wednesday,False
+2026-01-29,Food,Lunch,197.0,Expense,Card,2026,1,2026-01,January,29,Thursday,False
+2026-01-29,Transport,Auto fare,180.0,Expense,Cash,2026,1,2026-01,January,29,Thursday,False
+2026-01-29,Food,Snacks,347.0,Expense,UPI,2026,1,2026-01,January,29,Thursday,False
+2026-01-30,Food,Lunch,177.0,Expense,Card,2026,1,2026-01,January,30,Friday,False
+2026-02-01,Food,Cafe,272.0,Expense,UPI,2026,2,2026-02,February,1,Sunday,True
+2026-02-01,Food,Groceries,292.0,Expense,Cash,2026,2,2026-02,February,1,Sunday,True
+2026-02-01,Salary,Monthly stipend / salary,35000.0,Income,Bank Transfer,2026,2,2026-02,February,1,Sunday,True
+2026-02-01,Food,Groceries,210.0,Expense,UPI,2026,2,2026-02,February,1,Sunday,True
+2026-02-01,Transport,Metro recharge,89.0,Expense,Card,2026,2,2026-02,February,1,Sunday,True
+2026-02-01,Transport,Uber ride,122.0,Expense,Card,2026,2,2026-02,February,1,Sunday,True
+2026-02-02,Health,Vitamins,486.0,Expense,UPI,2026,2,2026-02,February,2,Monday,False
+2026-02-02,Rent,Room rent,12000.0,Expense,UPI,2026,2,2026-02,February,2,Monday,False
+2026-02-02,Food,Lunch,194.0,Expense,UPI,2026,2,2026-02,February,2,Monday,False
+2026-02-03,Transport,Bus ticket,226.0,Expense,UPI,2026,2,2026-02,February,3,Tuesday,False
+2026-02-03,Food,Lunch,348.0,Expense,Cash,2026,2,2026-02,February,3,Tuesday,False
+2026-02-03,Transport,Bus ticket,152.0,Expense,Card,2026,2,2026-02,February,3,Tuesday,False
+2026-02-03,Transport,Petrol,166.0,Expense,UPI,2026,2,2026-02,February,3,Tuesday,False
+2026-02-05,Shopping,Household items,896.0,Expense,UPI,2026,2,2026-02,February,5,Thursday,False
+2026-02-05,Transport,Uber ride,117.0,Expense,UPI,2026,2,2026-02,February,5,Thursday,False
+2026-02-05,Food,Snacks,274.0,Expense,Cash,2026,2,2026-02,February,5,Thursday,False
+2026-02-05,Transport,Auto fare,99.0,Expense,UPI,2026,2,2026-02,February,5,Thursday,False
+2026-02-05,Food,Dinner,287.0,Expense,UPI,2026,2,2026-02,February,5,Thursday,False
+2026-02-05,Bills,Electricity bill,821.0,Expense,UPI,2026,2,2026-02,February,5,Thursday,False
+2026-02-06,Food,Cafe,149.0,Expense,UPI,2026,2,2026-02,February,6,Friday,False
+2026-02-06,Transport,Uber ride,125.0,Expense,UPI,2026,2,2026-02,February,6,Friday,False
+2026-02-07,Food,Snacks,292.0,Expense,Cash,2026,2,2026-02,February,7,Saturday,True
+2026-02-07,Bills,Internet bill,799.0,Expense,UPI,2026,2,2026-02,February,7,Saturday,True
+2026-02-07,Food,Dinner,142.0,Expense,UPI,2026,2,2026-02,February,7,Saturday,True
+2026-02-07,Bills,Mobile recharge,299.0,Expense,UPI,2026,2,2026-02,February,7,Saturday,True
+2026-02-08,Food,Lunch,367.0,Expense,Card,2026,2,2026-02,February,8,Sunday,True
+2026-02-08,Uncategorized,Snacks,167.0,Expense,UPI,2026,2,2026-02,February,8,Sunday,True
+2026-02-08,Shopping,Accessories,762.0,Expense,Card,2026,2,2026-02,February,8,Sunday,True
+2026-02-09,Food,Cafe,219.0,Expense,Cash,2026,2,2026-02,February,9,Monday,False
+2026-02-10,Food,Zomato order,274.0,Expense,UPI,2026,2,2026-02,February,10,Tuesday,False
+2026-02-10,Transport,Bus ticket,40.0,Expense,Cash,2026,2,2026-02,February,10,Tuesday,False
+2026-02-10,Subscriptions,AI tools subscription,1650.0,Expense,Card,2026,2,2026-02,February,10,Tuesday,False
+2026-02-10,Subscriptions,Cloud / domain hosting,450.0,Expense,Card,2026,2,2026-02,February,10,Tuesday,False
+2026-02-11,Food,Lunch,429.0,Expense,UPI,2026,2,2026-02,February,11,Wednesday,False
+2026-02-12,Freelance,Data dashboard gig,5272.0,Income,Bank Transfer,2026,2,2026-02,February,12,Thursday,False
+2026-02-13,Transport,Metro recharge,57.0,Expense,Cash,2026,2,2026-02,February,13,Friday,False
+2026-02-13,Food,Groceries,196.0,Expense,Card,2026,2,2026-02,February,13,Friday,False
+2026-02-14,Shopping,Laptop repair + new SSD,18500.0,Expense,Card,2026,2,2026-02,February,14,Saturday,True
+2026-02-14,Food,Snacks,30.0,Expense,UPI,2026,2,2026-02,February,14,Saturday,True
+2026-02-15,Entertainment,OTT add-on,398.0,Expense,Card,2026,2,2026-02,February,15,Sunday,True
+2026-02-15,Entertainment,OTT add-on,687.0,Expense,UPI,2026,2,2026-02,February,15,Sunday,True
+2026-02-15,Food,Swiggy order,250.0,Expense,Cash,2026,2,2026-02,February,15,Sunday,True
+2026-02-16,Transport,Metro recharge,73.0,Expense,Cash,2026,2,2026-02,February,16,Monday,False
+2026-02-16,Food,Cafe,283.0,Expense,UPI,2026,2,2026-02,February,16,Monday,False
+2026-02-16,Entertainment,Movie ticket,393.0,Expense,UPI,2026,2,2026-02,February,16,Monday,False
+2026-02-17,Food,Dinner,268.0,Expense,UPI,2026,2,2026-02,February,17,Tuesday,False
+2026-02-17,Transport,Auto fare,44.0,Expense,Cash,2026,2,2026-02,February,17,Tuesday,False
+2026-02-17,Food,Groceries,154.0,Expense,UPI,2026,2,2026-02,February,17,Tuesday,False
+2026-02-18,Transport,Bus ticket,83.0,Expense,UPI,2026,2,2026-02,February,18,Wednesday,False
+2026-02-18,Entertainment,OTT add-on,611.0,Expense,UPI,2026,2,2026-02,February,18,Wednesday,False
+2026-02-19,Food,Swiggy order,92.0,Expense,UPI,2026,2,2026-02,February,19,Thursday,False
+2026-02-19,Food,Dinner,328.0,Expense,Cash,2026,2,2026-02,February,19,Thursday,False
+2026-02-21,Entertainment,Movie ticket,289.0,Expense,UPI,2026,2,2026-02,February,21,Saturday,True
+2026-02-22,Food,Snacks,129.0,Expense,Card,2026,2,2026-02,February,22,Sunday,True
+2026-02-23,Food,Dinner,249.0,Expense,Cash,2026,2,2026-02,February,23,Monday,False
+2026-02-24,Food,Snacks,507.0,Expense,Cash,2026,2,2026-02,February,24,Tuesday,False
+2026-02-25,Food,Zomato order,248.0,Expense,Cash,2026,2,2026-02,February,25,Wednesday,False
+2026-02-26,Food,Swiggy order,257.0,Expense,Cash,2026,2,2026-02,February,26,Thursday,False
+2026-02-26,Freelance,Data dashboard gig,8236.0,Income,Bank Transfer,2026,2,2026-02,February,26,Thursday,False
+2026-02-26,Food,Snacks,62.0,Expense,Cash,2026,2,2026-02,February,26,Thursday,False
+2026-02-28,Transport,Auto fare,149.0,Expense,Card,2026,2,2026-02,February,28,Saturday,True
+2026-02-28,Food,Lunch,281.0,Expense,Card,2026,2,2026-02,February,28,Saturday,True
+2026-02-28,Food,Swiggy order,208.0,Expense,Card,2026,2,2026-02,February,28,Saturday,True
+2026-03-01,Salary,Monthly stipend / salary,35000.0,Income,Bank Transfer,2026,3,2026-03,March,1,Sunday,True
+2026-03-01,Transport,Bus ticket,28.0,Expense,Cash,2026,3,2026-03,March,1,Sunday,True
+2026-03-01,Food,Zomato order,251.0,Expense,UPI,2026,3,2026-03,March,1,Sunday,True
+2026-03-02,Rent,Room rent,12000.0,Expense,UPI,2026,3,2026-03,March,2,Monday,False
+2026-03-02,Food,Snacks,161.0,Expense,UPI,2026,3,2026-03,March,2,Monday,False
+2026-03-02,Transport,Auto fare,226.0,Expense,UPI,2026,3,2026-03,March,2,Monday,False
+2026-03-03,Transport,Metro recharge,30.0,Expense,Cash,2026,3,2026-03,March,3,Tuesday,False
+2026-03-04,Food,Snacks,65.0,Expense,UPI,2026,3,2026-03,March,4,Wednesday,False
+2026-03-04,Transport,Uber ride,150.0,Expense,UPI,2026,3,2026-03,March,4,Wednesday,False
+2026-03-05,Transport,Auto fare,69.0,Expense,Card,2026,3,2026-03,March,5,Thursday,False
+2026-03-05,Transport,Petrol,185.0,Expense,UPI,2026,3,2026-03,March,5,Thursday,False
+2026-03-05,Bills,Electricity bill,1241.0,Expense,UPI,2026,3,2026-03,March,5,Thursday,False
+2026-03-06,Entertainment,Outing with friends,471.0,Expense,UPI,2026,3,2026-03,March,6,Friday,False
+2026-03-07,Bills,Internet bill,799.0,Expense,UPI,2026,3,2026-03,March,7,Saturday,True
+2026-03-07,Food,Dinner,317.0,Expense,UPI,2026,3,2026-03,March,7,Saturday,True
+2026-03-07,Food,Cafe,152.0,Expense,UPI,2026,3,2026-03,March,7,Saturday,True
+2026-03-07,Food,Swiggy order,93.0,Expense,UPI,2026,3,2026-03,March,7,Saturday,True
+2026-03-07,Bills,Mobile recharge,299.0,Expense,UPI,2026,3,2026-03,March,7,Saturday,True
+2026-03-08,Food,Groceries,156.0,Expense,Cash,2026,3,2026-03,March,8,Sunday,True
+2026-03-08,Uncategorized,Dinner,260.0,Expense,UPI,2026,3,2026-03,March,8,Sunday,True
+2026-03-09,Food,Snacks,132.0,Expense,Card,2026,3,2026-03,March,9,Monday,False
+2026-03-10,Subscriptions,AI tools subscription,1650.0,Expense,Card,2026,3,2026-03,March,10,Tuesday,False
+2026-03-10,Subscriptions,Cloud / domain hosting,450.0,Expense,Card,2026,3,2026-03,March,10,Tuesday,False
+2026-03-11,Transport,Auto fare,145.0,Expense,UPI,2026,3,2026-03,March,11,Wednesday,False
+2026-03-12,Entertainment,Concert pass,717.0,Expense,Card,2026,3,2026-03,March,12,Thursday,False
+2026-03-12,Freelance,Data dashboard gig,6169.0,Income,Bank Transfer,2026,3,2026-03,March,12,Thursday,False
+2026-03-12,Food,Snacks,123.0,Expense,UPI,2026,3,2026-03,March,12,Thursday,False
+2026-03-14,Entertainment,Movie ticket,441.0,Expense,UPI,2026,3,2026-03,March,14,Saturday,True
+2026-03-15,Food,Groceries,275.0,Expense,UPI,2026,3,2026-03,March,15,Sunday,True
+2026-03-15,Transport,Bus ticket,20.0,Expense,UPI,2026,3,2026-03,March,15,Sunday,True
+2026-03-16,Food,Cafe,294.0,Expense,UPI,2026,3,2026-03,March,16,Monday,False
+2026-03-16,Transport,Auto fare,144.0,Expense,UPI,2026,3,2026-03,March,16,Monday,False
+2026-03-16,Transport,Metro recharge,155.0,Expense,Cash,2026,3,2026-03,March,16,Monday,False
+2026-03-16,Food,Groceries,346.0,Expense,Cash,2026,3,2026-03,March,16,Monday,False
+2026-03-16,Food,Dinner,30.0,Expense,Cash,2026,3,2026-03,March,16,Monday,False
+2026-03-16,Transport,Uber ride,181.0,Expense,UPI,2026,3,2026-03,March,16,Monday,False
+2026-03-17,Transport,Metro recharge,20.0,Expense,Cash,2026,3,2026-03,March,17,Tuesday,False
+2026-03-19,Food,Lunch,329.0,Expense,Card,2026,3,2026-03,March,19,Thursday,False
+2026-03-20,Food,Dinner,210.0,Expense,Cash,2026,3,2026-03,March,20,Friday,False
+2026-03-21,Food,Snacks,299.0,Expense,UPI,2026,3,2026-03,March,21,Saturday,True
+2026-03-21,Food,Cafe,365.0,Expense,UPI,2026,3,2026-03,March,21,Saturday,True
+2026-03-21,Food,Cafe,76.0,Expense,UPI,2026,3,2026-03,March,21,Saturday,True
+2026-03-22,Food,Zomato order,156.0,Expense,Card,2026,3,2026-03,March,22,Sunday,True
+2026-03-22,Food,Dinner,25.0,Expense,UPI,2026,3,2026-03,March,22,Sunday,True
+2026-03-23,Transport,Bus ticket,85.0,Expense,UPI,2026,3,2026-03,March,23,Monday,False
+2026-03-23,Food,Lunch,287.0,Expense,UPI,2026,3,2026-03,March,23,Monday,False
+2026-03-23,Transport,Petrol,150.0,Expense,Card,2026,3,2026-03,March,23,Monday,False
+2026-03-24,Food,Cafe,327.0,Expense,Card,2026,3,2026-03,March,24,Tuesday,False
+2026-03-25,Food,Dinner,175.0,Expense,Card,2026,3,2026-03,March,25,Wednesday,False
+2026-03-26,Food,Zomato order,382.0,Expense,Cash,2026,3,2026-03,March,26,Thursday,False
+2026-03-26,Food,Groceries,166.0,Expense,Card,2026,3,2026-03,March,26,Thursday,False
+2026-03-26,Transport,Petrol,54.0,Expense,UPI,2026,3,2026-03,March,26,Thursday,False
+2026-03-26,Freelance,n8n workflow client,8151.0,Income,Bank Transfer,2026,3,2026-03,March,26,Thursday,False
+2026-03-27,Food,Cafe,61.0,Expense,Cash,2026,3,2026-03,March,27,Friday,False
+2026-03-28,Food,Zomato order,246.0,Expense,UPI,2026,3,2026-03,March,28,Saturday,True
+2026-04-01,Salary,Monthly stipend / salary,35000.0,Income,Bank Transfer,2026,4,2026-04,April,1,Wednesday,False
+2026-04-02,Rent,Room rent,12000.0,Expense,UPI,2026,4,2026-04,April,2,Thursday,False
+2026-04-04,Food,Cafe,167.0,Expense,UPI,2026,4,2026-04,April,4,Saturday,True
+2026-04-04,Food,Swiggy order,254.0,Expense,Cash,2026,4,2026-04,April,4,Saturday,True
+2026-04-04,Transport,Auto fare,51.0,Expense,UPI,2026,4,2026-04,April,4,Saturday,True
+2026-04-04,Food,Groceries,221.0,Expense,UPI,2026,4,2026-04,April,4,Saturday,True
+2026-04-05,Bills,Electricity bill,2086.0,Expense,UPI,2026,4,2026-04,April,5,Sunday,True
+2026-04-06,Entertainment,Movie ticket,595.0,Expense,UPI,2026,4,2026-04,April,6,Monday,False
+2026-04-06,Food,Snacks,284.0,Expense,Cash,2026,4,2026-04,April,6,Monday,False
+2026-04-06,Food,Swiggy order,223.0,Expense,UPI,2026,4,2026-04,April,6,Monday,False
+2026-04-07,Food,Lunch,136.0,Expense,UPI,2026,4,2026-04,April,7,Tuesday,False
+2026-04-07,Bills,Internet bill,799.0,Expense,UPI,2026,4,2026-04,April,7,Tuesday,False
+2026-04-07,Bills,Mobile recharge,299.0,Expense,UPI,2026,4,2026-04,April,7,Tuesday,False
+2026-04-08,Transport,Auto fare,175.0,Expense,UPI,2026,4,2026-04,April,8,Wednesday,False
+2026-04-09,Transport,Bus ticket,181.0,Expense,Card,2026,4,2026-04,April,9,Thursday,False
+2026-04-10,Subscriptions,AI tools subscription,1650.0,Expense,Card,2026,4,2026-04,April,10,Friday,False
+2026-04-10,Food,Lunch,256.0,Expense,UPI,2026,4,2026-04,April,10,Friday,False
+2026-04-10,Subscriptions,Cloud / domain hosting,450.0,Expense,Card,2026,4,2026-04,April,10,Friday,False
+2026-04-12,Freelance,Data dashboard gig,7416.0,Income,Bank Transfer,2026,4,2026-04,April,12,Sunday,True
+2026-04-13,Health,Doctor consultation,571.0,Expense,UPI,2026,4,2026-04,April,13,Monday,False
+2026-04-14,Transport,Metro recharge,184.0,Expense,UPI,2026,4,2026-04,April,14,Tuesday,False
+2026-04-15,Food,Snacks,377.0,Expense,Card,2026,4,2026-04,April,15,Wednesday,False
+2026-04-16,Food,Dinner,277.0,Expense,UPI,2026,4,2026-04,April,16,Thursday,False
+2026-04-16,Food,Swiggy order,154.0,Expense,UPI,2026,4,2026-04,April,16,Thursday,False
+2026-04-17,Transport,Petrol,179.0,Expense,UPI,2026,4,2026-04,April,17,Friday,False
+2026-04-18,Shopping,Amazon order,1046.0,Expense,Card,2026,4,2026-04,April,18,Saturday,True
+2026-04-18,Food,Cafe,270.0,Expense,Cash,2026,4,2026-04,April,18,Saturday,True
+2026-04-19,Food,Swiggy order,198.0,Expense,UPI,2026,4,2026-04,April,19,Sunday,True
+2026-04-19,Food,Groceries,267.0,Expense,UPI,2026,4,2026-04,April,19,Sunday,True
+2026-04-20,Education,Certification exam fee,1428.0,Expense,Card,2026,4,2026-04,April,20,Monday,False
+2026-04-20,Entertainment,Concert pass,582.0,Expense,UPI,2026,4,2026-04,April,20,Monday,False
+2026-04-21,Shopping,Household items,1486.0,Expense,Card,2026,4,2026-04,April,21,Tuesday,False
+2026-04-21,Entertainment,Outing with friends,1069.0,Expense,Card,2026,4,2026-04,April,21,Tuesday,False
+2026-04-23,Transport,Bus ticket,182.0,Expense,Cash,2026,4,2026-04,April,23,Thursday,False
+2026-04-24,Food,Cafe,135.0,Expense,UPI,2026,4,2026-04,April,24,Friday,False
+2026-04-24,Food,Snacks,185.0,Expense,UPI,2026,4,2026-04,April,24,Friday,False
+2026-04-24,Food,Groceries,299.0,Expense,UPI,2026,4,2026-04,April,24,Friday,False
+2026-04-25,Food,Dinner,213.0,Expense,UPI,2026,4,2026-04,April,25,Saturday,True
+2026-04-25,Shopping,Gadget accessory,695.0,Expense,Card,2026,4,2026-04,April,25,Saturday,True
+2026-04-26,Freelance,AI automation project,4205.0,Income,Bank Transfer,2026,4,2026-04,April,26,Sunday,True
+2026-04-26,Food,Lunch,231.0,Expense,Card,2026,4,2026-04,April,26,Sunday,True
+2026-04-26,Entertainment,Concert pass,483.0,Expense,Card,2026,4,2026-04,April,26,Sunday,True
+2026-04-26,Transport,Metro recharge,86.0,Expense,Cash,2026,4,2026-04,April,26,Sunday,True
+2026-04-26,Food,Swiggy order,148.0,Expense,UPI,2026,4,2026-04,April,26,Sunday,True
+2026-04-28,Transport,Petrol,206.0,Expense,UPI,2026,4,2026-04,April,28,Tuesday,False
+2026-04-28,Food,Dinner,201.0,Expense,Cash,2026,4,2026-04,April,28,Tuesday,False
+2026-04-29,Transport,Auto fare,150.0,Expense,UPI,2026,4,2026-04,April,29,Wednesday,False
+2026-04-29,Food,Cafe,333.0,Expense,Cash,2026,4,2026-04,April,29,Wednesday,False
+2026-04-29,Food,Groceries,20.0,Expense,UPI,2026,4,2026-04,April,29,Wednesday,False
+2026-04-29,Food,Swiggy order,118.0,Expense,UPI,2026,4,2026-04,April,29,Wednesday,False
+2026-04-30,Food,Groceries,316.0,Expense,Cash,2026,4,2026-04,April,30,Thursday,False
+2026-04-30,Uncategorized,Dinner,126.0,Expense,UPI,2026,4,2026-04,April,30,Thursday,False
+2026-05-01,Food,Dinner,335.0,Expense,UPI,2026,5,2026-05,May,1,Friday,False
+2026-05-01,Salary,Monthly stipend / salary,35000.0,Income,Bank Transfer,2026,5,2026-05,May,1,Friday,False
+2026-05-02,Food,Zomato order,272.0,Expense,Card,2026,5,2026-05,May,2,Saturday,True
+2026-05-02,Rent,Room rent,12000.0,Expense,UPI,2026,5,2026-05,May,2,Saturday,True
+2026-05-03,Food,Lunch,201.0,Expense,UPI,2026,5,2026-05,May,3,Sunday,True
+2026-05-03,Transport,Petrol,110.0,Expense,Cash,2026,5,2026-05,May,3,Sunday,True
+2026-05-03,Health,Doctor consultation,848.0,Expense,UPI,2026,5,2026-05,May,3,Sunday,True
+2026-05-04,Food,Snacks,277.0,Expense,UPI,2026,5,2026-05,May,4,Monday,False
+2026-05-05,Bills,Electricity bill,1911.0,Expense,UPI,2026,5,2026-05,May,5,Tuesday,False
+2026-05-06,Food,Swiggy order,255.0,Expense,UPI,2026,5,2026-05,May,6,Wednesday,False
+2026-05-06,Entertainment,Movie ticket,681.0,Expense,UPI,2026,5,2026-05,May,6,Wednesday,False
+2026-05-06,Food,Snacks,325.0,Expense,UPI,2026,5,2026-05,May,6,Wednesday,False
+2026-05-07,Bills,Mobile recharge,299.0,Expense,UPI,2026,5,2026-05,May,7,Thursday,False
+2026-05-07,Bills,Internet bill,799.0,Expense,UPI,2026,5,2026-05,May,7,Thursday,False
+2026-05-07,Entertainment,Movie ticket,298.0,Expense,UPI,2026,5,2026-05,May,7,Thursday,False
+2026-05-08,Shopping,Amazon order,451.0,Expense,UPI,2026,5,2026-05,May,8,Friday,False
+2026-05-08,Food,Swiggy order,244.0,Expense,UPI,2026,5,2026-05,May,8,Friday,False
+2026-05-08,Food,Groceries,249.0,Expense,UPI,2026,5,2026-05,May,8,Friday,False
+2026-05-09,Entertainment,Outing with friends,398.0,Expense,Card,2026,5,2026-05,May,9,Saturday,True
+2026-05-10,Food,Zomato order,204.0,Expense,Card,2026,5,2026-05,May,10,Sunday,True
+2026-05-10,Food,Swiggy order,164.0,Expense,Card,2026,5,2026-05,May,10,Sunday,True
+2026-05-10,Subscriptions,Cloud / domain hosting,450.0,Expense,Card,2026,5,2026-05,May,10,Sunday,True
+2026-05-10,Subscriptions,AI tools subscription,1650.0,Expense,Card,2026,5,2026-05,May,10,Sunday,True
+2026-05-11,Food,Zomato order,337.0,Expense,Cash,2026,5,2026-05,May,11,Monday,False
+2026-05-12,Freelance,n8n workflow client,12442.0,Income,Bank Transfer,2026,5,2026-05,May,12,Tuesday,False
+2026-05-12,Food,Swiggy order,213.0,Expense,UPI,2026,5,2026-05,May,12,Tuesday,False
+2026-05-12,Travel,Train tickets,840.0,Expense,UPI,2026,5,2026-05,May,12,Tuesday,False
+2026-05-13,Travel,Local sightseeing,541.0,Expense,UPI,2026,5,2026-05,May,13,Wednesday,False
+2026-05-13,Food,Snacks,93.0,Expense,UPI,2026,5,2026-05,May,13,Wednesday,False
+2026-05-13,Food,Cafe,380.0,Expense,UPI,2026,5,2026-05,May,13,Wednesday,False
+2026-05-14,Travel,Local sightseeing,1094.0,Expense,UPI,2026,5,2026-05,May,14,Thursday,False
+2026-05-16,Food,Snacks,71.0,Expense,Cash,2026,5,2026-05,May,16,Saturday,True
+2026-05-16,Entertainment,OTT add-on,576.0,Expense,UPI,2026,5,2026-05,May,16,Saturday,True
+2026-05-17,Food,Cafe,186.0,Expense,Cash,2026,5,2026-05,May,17,Sunday,True
+2026-05-17,Transport,Metro recharge,112.0,Expense,Card,2026,5,2026-05,May,17,Sunday,True
+2026-05-20,Food,Snacks,232.0,Expense,Cash,2026,5,2026-05,May,20,Wednesday,False
+2026-05-20,Shopping,Accessories,492.0,Expense,UPI,2026,5,2026-05,May,20,Wednesday,False
+2026-05-21,Transport,Petrol,155.0,Expense,UPI,2026,5,2026-05,May,21,Thursday,False
+2026-05-22,Food,Lunch,230.0,Expense,UPI,2026,5,2026-05,May,22,Friday,False
+2026-05-23,Food,Snacks,347.0,Expense,UPI,2026,5,2026-05,May,23,Saturday,True
+2026-05-23,Food,Dinner,254.0,Expense,UPI,2026,5,2026-05,May,23,Saturday,True
+2026-05-24,Shopping,Household items,636.0,Expense,UPI,2026,5,2026-05,May,24,Sunday,True
+2026-05-24,Food,Cafe,173.0,Expense,UPI,2026,5,2026-05,May,24,Sunday,True
+2026-05-25,Food,Groceries,59.0,Expense,UPI,2026,5,2026-05,May,25,Monday,False
+2026-05-25,Food,Swiggy order,282.0,Expense,UPI,2026,5,2026-05,May,25,Monday,False
+2026-05-26,Freelance,Data dashboard gig,8068.0,Income,Bank Transfer,2026,5,2026-05,May,26,Tuesday,False
+2026-05-26,Food,Lunch,253.0,Expense,Cash,2026,5,2026-05,May,26,Tuesday,False
+2026-05-27,Food,Cafe,184.0,Expense,UPI,2026,5,2026-05,May,27,Wednesday,False
+2026-05-27,Food,Cafe,200.0,Expense,Card,2026,5,2026-05,May,27,Wednesday,False
+2026-05-28,Food,Dinner,310.0,Expense,Cash,2026,5,2026-05,May,28,Thursday,False
+2026-05-28,Food,Lunch,267.0,Expense,UPI,2026,5,2026-05,May,28,Thursday,False
+2026-05-28,Transport,Uber ride,233.0,Expense,Card,2026,5,2026-05,May,28,Thursday,False
+2026-05-28,Transport,Uber ride,74.0,Expense,UPI,2026,5,2026-05,May,28,Thursday,False
+2026-05-29,Entertainment,Movie ticket,534.0,Expense,UPI,2026,5,2026-05,May,29,Friday,False
+2026-05-30,Food,Cafe,322.0,Expense,Card,2026,5,2026-05,May,30,Saturday,True
+2026-05-31,Food,Cafe,48.0,Expense,UPI,2026,5,2026-05,May,31,Sunday,True
+2026-05-31,Transport,Metro recharge,198.0,Expense,UPI,2026,5,2026-05,May,31,Sunday,True
+2026-05-31,Transport,Uber ride,47.0,Expense,UPI,2026,5,2026-05,May,31,Sunday,True
+2026-05-31,Food,Swiggy order,348.0,Expense,UPI,2026,5,2026-05,May,31,Sunday,True
+2026-05-31,Food,Lunch,364.0,Expense,UPI,2026,5,2026-05,May,31,Sunday,True
+2026-05-31,Food,Groceries,298.0,Expense,UPI,2026,5,2026-05,May,31,Sunday,True
+2026-05-31,Food,Cafe,249.0,Expense,UPI,2026,5,2026-05,May,31,Sunday,True
+2026-06-01,Food,Cafe,387.0,Expense,UPI,2026,6,2026-06,June,1,Monday,False
+2026-06-01,Transport,Auto fare,155.0,Expense,UPI,2026,6,2026-06,June,1,Monday,False
+2026-06-01,Salary,Monthly stipend / salary,35000.0,Income,Bank Transfer,2026,6,2026-06,June,1,Monday,False
+2026-06-02,Rent,Room rent,12000.0,Expense,UPI,2026,6,2026-06,June,2,Tuesday,False
+2026-06-02,Shopping,Amazon order,902.0,Expense,Net Banking,2026,6,2026-06,June,2,Tuesday,False
+2026-06-03,Food,Snacks,210.0,Expense,Card,2026,6,2026-06,June,3,Wednesday,False
+2026-06-04,Food,Snacks,386.0,Expense,UPI,2026,6,2026-06,June,4,Thursday,False
+2026-06-04,Health,Vitamins,315.0,Expense,UPI,2026,6,2026-06,June,4,Thursday,False
+2026-06-04,Shopping,Clothes,46.0,Expense,Card,2026,6,2026-06,June,4,Thursday,False
+2026-06-05,Bills,Electricity bill,1520.0,Expense,UPI,2026,6,2026-06,June,5,Friday,False
+2026-06-05,Food,Groceries,163.0,Expense,Card,2026,6,2026-06,June,5,Friday,False
+2026-06-05,Transport,Auto fare,112.0,Expense,Cash,2026,6,2026-06,June,5,Friday,False
+2026-06-07,Transport,Auto fare,92.0,Expense,UPI,2026,6,2026-06,June,7,Sunday,True
+2026-06-07,Bills,Mobile recharge,299.0,Expense,UPI,2026,6,2026-06,June,7,Sunday,True
+2026-06-07,Bills,Internet bill,799.0,Expense,UPI,2026,6,2026-06,June,7,Sunday,True
+2026-06-07,Food,Groceries,273.0,Expense,UPI,2026,6,2026-06,June,7,Sunday,True
+2026-06-08,Food,Dinner,224.0,Expense,Card,2026,6,2026-06,June,8,Monday,False
+2026-06-08,Entertainment,Concert pass,205.0,Expense,UPI,2026,6,2026-06,June,8,Monday,False
+2026-06-08,Food,Cafe,363.0,Expense,Card,2026,6,2026-06,June,8,Monday,False
+2026-06-09,Food,Swiggy order,268.0,Expense,UPI,2026,6,2026-06,June,9,Tuesday,False
+2026-06-09,Transport,Bus ticket,135.0,Expense,UPI,2026,6,2026-06,June,9,Tuesday,False
+2026-06-09,Transport,Metro recharge,130.0,Expense,UPI,2026,6,2026-06,June,9,Tuesday,False
+2026-06-10,Entertainment,Concert pass,855.0,Expense,Card,2026,6,2026-06,June,10,Wednesday,False
+2026-06-10,Food,Cafe,65.0,Expense,Card,2026,6,2026-06,June,10,Wednesday,False
+2026-06-10,Subscriptions,Cloud / domain hosting,450.0,Expense,Card,2026,6,2026-06,June,10,Wednesday,False
+2026-06-10,Subscriptions,AI tools subscription,1650.0,Expense,Card,2026,6,2026-06,June,10,Wednesday,False
+2026-06-10,Health,Pharmacy,461.0,Expense,UPI,2026,6,2026-06,June,10,Wednesday,False
+2026-06-11,Entertainment,Outing with friends,262.0,Expense,UPI,2026,6,2026-06,June,11,Thursday,False
+2026-06-12,Transport,Metro recharge,107.0,Expense,UPI,2026,6,2026-06,June,12,Friday,False
+2026-06-12,Travel,Hotel stay,614.0,Expense,UPI,2026,6,2026-06,June,12,Friday,False
+2026-06-13,Travel,Local sightseeing,1625.0,Expense,UPI,2026,6,2026-06,June,13,Saturday,True
+2026-06-13,Food,Snacks,164.0,Expense,Card,2026,6,2026-06,June,13,Saturday,True
+2026-06-13,Food,Lunch,301.0,Expense,UPI,2026,6,2026-06,June,13,Saturday,True
+2026-06-14,Food,Zomato order,480.0,Expense,UPI,2026,6,2026-06,June,14,Sunday,True
+2026-06-14,Food,Snacks,207.0,Expense,UPI,2026,6,2026-06,June,14,Sunday,True
+2026-06-14,Travel,Train tickets,1128.0,Expense,UPI,2026,6,2026-06,June,14,Sunday,True
+2026-06-14,Transport,Petrol,69.0,Expense,UPI,2026,6,2026-06,June,14,Sunday,True
+2026-06-16,Food,Groceries,284.0,Expense,UPI,2026,6,2026-06,June,16,Tuesday,False
+2026-06-16,Food,Snacks,294.0,Expense,UPI,2026,6,2026-06,June,16,Tuesday,False
+2026-06-17,Food,Snacks,394.0,Expense,UPI,2026,6,2026-06,June,17,Wednesday,False
+2026-06-18,Health,Dental treatment,9000.0,Expense,UPI,2026,6,2026-06,June,18,Thursday,False
+2026-06-19,Food,Cafe,310.0,Expense,UPI,2026,6,2026-06,June,19,Friday,False
+2026-06-19,Shopping,Clothes,904.0,Expense,Net Banking,2026,6,2026-06,June,19,Friday,False
+2026-06-20,Food,Dinner,323.0,Expense,UPI,2026,6,2026-06,June,20,Saturday,True
+2026-06-21,Transport,Uber ride,128.0,Expense,UPI,2026,6,2026-06,June,21,Sunday,True
+2026-06-21,Shopping,Gadget accessory,430.0,Expense,Card,2026,6,2026-06,June,21,Sunday,True
+2026-06-22,Transport,Auto fare,78.0,Expense,Cash,2026,6,2026-06,June,22,Monday,False
+2026-06-22,Food,Dinner,366.0,Expense,UPI,2026,6,2026-06,June,22,Monday,False
+2026-06-22,Transport,Bus ticket,149.0,Expense,Cash,2026,6,2026-06,June,22,Monday,False
+2026-06-23,Food,Zomato order,375.0,Expense,Cash,2026,6,2026-06,June,23,Tuesday,False
+2026-06-24,Shopping,Gadget accessory,658.0,Expense,Card,2026,6,2026-06,June,24,Wednesday,False
+2026-06-25,Food,Cafe,270.0,Expense,UPI,2026,6,2026-06,June,25,Thursday,False
+2026-06-25,Food,Dinner,279.0,Expense,UPI,2026,6,2026-06,June,25,Thursday,False
+2026-06-25,Food,Swiggy order,192.0,Expense,UPI,2026,6,2026-06,June,25,Thursday,False
+2026-06-25,Shopping,Gadget accessory,602.0,Expense,UPI,2026,6,2026-06,June,25,Thursday,False
+2026-06-27,Transport,Auto fare,56.0,Expense,Cash,2026,6,2026-06,June,27,Saturday,True
+2026-06-28,Food,Swiggy order,415.0,Expense,UPI,2026,6,2026-06,June,28,Sunday,True
+2026-06-29,Shopping,Amazon order,1375.0,Expense,UPI,2026,6,2026-06,June,29,Monday,False
+2026-06-29,Food,Lunch,256.0,Expense,Card,2026,6,2026-06,June,29,Monday,False
+2026-06-29,Food,Zomato order,315.0,Expense,UPI,2026,6,2026-06,June,29,Monday,False
+2026-06-30,Transport,Uber ride,255.0,Expense,Cash,2026,6,2026-06,June,30,Tuesday,False
+2026-07-01,Food,Lunch,299.0,Expense,Cash,2026,7,2026-07,July,1,Wednesday,False
+2026-07-01,Salary,Monthly stipend / salary,35000.0,Income,Bank Transfer,2026,7,2026-07,July,1,Wednesday,False
+2026-07-02,Rent,Room rent,12000.0,Expense,UPI,2026,7,2026-07,July,2,Thursday,False
+2026-07-02,Food,Dinner,133.0,Expense,UPI,2026,7,2026-07,July,2,Thursday,False
+2026-07-03,Transport,Bus ticket,282.0,Expense,UPI,2026,7,2026-07,July,3,Friday,False
+2026-07-03,Food,Groceries,233.0,Expense,UPI,2026,7,2026-07,July,3,Friday,False
+2026-07-04,Food,Lunch,102.0,Expense,UPI,2026,7,2026-07,July,4,Saturday,True
+2026-07-04,Food,Zomato order,218.0,Expense,UPI,2026,7,2026-07,July,4,Saturday,True
+2026-07-04,Transport,Bus ticket,126.0,Expense,Cash,2026,7,2026-07,July,4,Saturday,True
+2026-07-05,Bills,Electricity bill,783.0,Expense,UPI,2026,7,2026-07,July,5,Sunday,True
+2026-07-06,Food,Dinner,184.0,Expense,UPI,2026,7,2026-07,July,6,Monday,False
+2026-07-07,Food,Swiggy order,324.0,Expense,UPI,2026,7,2026-07,July,7,Tuesday,False
+2026-07-07,Transport,Metro recharge,54.0,Expense,UPI,2026,7,2026-07,July,7,Tuesday,False
+2026-07-07,Food,Zomato order,300.0,Expense,UPI,2026,7,2026-07,July,7,Tuesday,False
+2026-07-07,Food,Groceries,196.0,Expense,Card,2026,7,2026-07,July,7,Tuesday,False
+2026-07-07,Food,Swiggy order,170.0,Expense,Cash,2026,7,2026-07,July,7,Tuesday,False
+2026-07-07,Bills,Internet bill,799.0,Expense,UPI,2026,7,2026-07,July,7,Tuesday,False
+2026-07-07,Food,Lunch,43.0,Expense,UPI,2026,7,2026-07,July,7,Tuesday,False
+2026-07-07,Transport,Uber ride,168.0,Expense,UPI,2026,7,2026-07,July,7,Tuesday,False
+2026-07-07,Bills,Mobile recharge,299.0,Expense,UPI,2026,7,2026-07,July,7,Tuesday,False
+2026-07-08,Transport,Auto fare,180.0,Expense,UPI,2026,7,2026-07,July,8,Wednesday,False
+2026-07-08,Transport,Metro recharge,165.0,Expense,Card,2026,7,2026-07,July,8,Wednesday,False
+2026-07-09,Food,Dinner,219.0,Expense,UPI,2026,7,2026-07,July,9,Thursday,False
+2026-07-10,Subscriptions,Cloud / domain hosting,450.0,Expense,Card,2026,7,2026-07,July,10,Friday,False
+2026-07-10,Subscriptions,AI tools subscription,1650.0,Expense,Card,2026,7,2026-07,July,10,Friday,False
+2026-07-11,Food,Swiggy order,187.0,Expense,UPI,2026,7,2026-07,July,11,Saturday,True
+2026-07-11,Transport,Bus ticket,118.0,Expense,Cash,2026,7,2026-07,July,11,Saturday,True
+2026-07-12,Food,Snacks,312.0,Expense,Card,2026,7,2026-07,July,12,Sunday,True
+2026-07-12,Food,Cafe,271.0,Expense,UPI,2026,7,2026-07,July,12,Sunday,True
+2026-07-12,Freelance,AI automation project,8828.0,Income,Bank Transfer,2026,7,2026-07,July,12,Sunday,True
+2026-07-12,Transport,Uber ride,229.0,Expense,UPI,2026,7,2026-07,July,12,Sunday,True
+2026-07-13,Shopping,Accessories,377.0,Expense,Net Banking,2026,7,2026-07,July,13,Monday,False
+2026-07-14,Food,Lunch,319.0,Expense,UPI,2026,7,2026-07,July,14,Tuesday,False
+2026-07-14,Shopping,Clothes,1806.0,Expense,Net Banking,2026,7,2026-07,July,14,Tuesday,False
+2026-07-15,Food,Lunch,223.0,Expense,Cash,2026,7,2026-07,July,15,Wednesday,False
+2026-07-16,Transport,Metro recharge,160.0,Expense,UPI,2026,7,2026-07,July,16,Thursday,False
+2026-07-17,Food,Zomato order,295.0,Expense,UPI,2026,7,2026-07,July,17,Friday,False
+2026-07-17,Transport,Bus ticket,187.0,Expense,UPI,2026,7,2026-07,July,17,Friday,False
+2026-07-17,Food,Lunch,283.0,Expense,Card,2026,7,2026-07,July,17,Friday,False
+2026-07-17,Transport,Metro recharge,96.0,Expense,UPI,2026,7,2026-07,July,17,Friday,False
+2026-07-18,Transport,Auto fare,264.0,Expense,Cash,2026,7,2026-07,July,18,Saturday,True
+2026-07-18,Food,Zomato order,518.0,Expense,UPI,2026,7,2026-07,July,18,Saturday,True
+2026-07-18,Food,Lunch,192.0,Expense,UPI,2026,7,2026-07,July,18,Saturday,True
+2026-07-19,Food,Lunch,484.0,Expense,UPI,2026,7,2026-07,July,19,Sunday,True
+2026-07-20,Education,Books,1341.0,Expense,Card,2026,7,2026-07,July,20,Monday,False
+2026-07-22,Food,Snacks,247.0,Expense,UPI,2026,7,2026-07,July,22,Wednesday,False
+2026-07-22,Food,Dinner,266.0,Expense,UPI,2026,7,2026-07,July,22,Wednesday,False
+2026-07-23,Food,Swiggy order,196.0,Expense,UPI,2026,7,2026-07,July,23,Thursday,False
+2026-07-24,Transport,Petrol,126.0,Expense,Cash,2026,7,2026-07,July,24,Friday,False
+2026-07-25,Food,Zomato order,197.0,Expense,UPI,2026,7,2026-07,July,25,Saturday,True
+2026-07-26,Shopping,Gadget accessory,152.0,Expense,Card,2026,7,2026-07,July,26,Sunday,True
+2026-07-26,Transport,Metro recharge,296.0,Expense,UPI,2026,7,2026-07,July,26,Sunday,True
+2026-07-26,Freelance,n8n workflow client,4618.0,Income,Bank Transfer,2026,7,2026-07,July,26,Sunday,True
+2026-07-26,Food,Lunch,133.0,Expense,UPI,2026,7,2026-07,July,26,Sunday,True
+2026-07-26,Entertainment,Outing with friends,436.0,Expense,Card,2026,7,2026-07,July,26,Sunday,True
+2026-07-27,Entertainment,Concert pass,570.0,Expense,UPI,2026,7,2026-07,July,27,Monday,False
+2026-07-28,Food,Zomato order,149.0,Expense,UPI,2026,7,2026-07,July,28,Tuesday,False
+2026-07-29,Food,Snacks,339.0,Expense,UPI,2026,7,2026-07,July,29,Wednesday,False
+2026-07-29,Food,Cafe,322.0,Expense,UPI,2026,7,2026-07,July,29,Wednesday,False
+2026-07-30,Food,Dinner,261.0,Expense,Cash,2026,7,2026-07,July,30,Thursday,False
+2026-07-30,Food,Groceries,268.0,Expense,UPI,2026,7,2026-07,July,30,Thursday,False
+2026-07-31,Food,Cafe,194.0,Expense,UPI,2026,7,2026-07,July,31,Friday,False
+2026-08-01,Salary,Monthly stipend / salary,35000.0,Income,Bank Transfer,2026,8,2026-08,August,1,Saturday,True
+2026-08-01,Food,Snacks,326.0,Expense,UPI,2026,8,2026-08,August,1,Saturday,True
+2026-08-01,Food,Lunch,354.0,Expense,UPI,2026,8,2026-08,August,1,Saturday,True
+2026-08-02,Food,Zomato order,289.0,Expense,UPI,2026,8,2026-08,August,2,Sunday,True
+2026-08-02,Food,Swiggy order,224.0,Expense,UPI,2026,8,2026-08,August,2,Sunday,True
+2026-08-02,Rent,Room rent,12000.0,Expense,UPI,2026,8,2026-08,August,2,Sunday,True
+2026-08-02,Uncategorized,Outing with friends,605.0,Expense,UPI,2026,8,2026-08,August,2,Sunday,True
+2026-08-02,Transport,Metro recharge,206.0,Expense,UPI,2026,8,2026-08,August,2,Sunday,True
+2026-08-03,Transport,Bus ticket,93.0,Expense,UPI,2026,8,2026-08,August,3,Monday,False
+2026-08-03,Food,Zomato order,243.0,Expense,Card,2026,8,2026-08,August,3,Monday,False
+2026-08-04,Transport,Bus ticket,181.0,Expense,Cash,2026,8,2026-08,August,4,Tuesday,False
+2026-08-05,Food,Snacks,192.0,Expense,UPI,2026,8,2026-08,August,5,Wednesday,False
+2026-08-05,Bills,Electricity bill,780.0,Expense,UPI,2026,8,2026-08,August,5,Wednesday,False
+2026-08-06,Food,Dinner,390.0,Expense,UPI,2026,8,2026-08,August,6,Thursday,False
+2026-08-07,Bills,Internet bill,799.0,Expense,UPI,2026,8,2026-08,August,7,Friday,False
+2026-08-07,Transport,Bus ticket,84.0,Expense,UPI,2026,8,2026-08,August,7,Friday,False
+2026-08-07,Bills,Mobile recharge,299.0,Expense,UPI,2026,8,2026-08,August,7,Friday,False
+2026-08-07,Transport,Metro recharge,20.0,Expense,UPI,2026,8,2026-08,August,7,Friday,False
+2026-08-09,Food,Dinner,259.0,Expense,Card,2026,8,2026-08,August,9,Sunday,True
+2026-08-09,Food,Snacks,206.0,Expense,Card,2026,8,2026-08,August,9,Sunday,True
+2026-08-09,Health,Vitamins,310.0,Expense,Card,2026,8,2026-08,August,9,Sunday,True
+2026-08-10,Transport,Uber ride,93.0,Expense,UPI,2026,8,2026-08,August,10,Monday,False
+2026-08-10,Subscriptions,Cloud / domain hosting,450.0,Expense,Card,2026,8,2026-08,August,10,Monday,False
+2026-08-10,Subscriptions,AI tools subscription,1650.0,Expense,Card,2026,8,2026-08,August,10,Monday,False
+2026-08-11,Shopping,Clothes,429.0,Expense,UPI,2026,8,2026-08,August,11,Tuesday,False
+2026-08-12,Food,Dinner,183.0,Expense,UPI,2026,8,2026-08,August,12,Wednesday,False
+2026-08-13,Food,Snacks,277.0,Expense,UPI,2026,8,2026-08,August,13,Thursday,False
+2026-08-13,Uncategorized,Snacks,83.0,Expense,Cash,2026,8,2026-08,August,13,Thursday,False
+2026-08-14,Food,Lunch,320.0,Expense,UPI,2026,8,2026-08,August,14,Friday,False
+2026-08-15,Food,Cafe,266.0,Expense,Cash,2026,8,2026-08,August,15,Saturday,True
+2026-08-15,Transport,Bus ticket,50.0,Expense,UPI,2026,8,2026-08,August,15,Saturday,True
+2026-08-15,Transport,Auto fare,147.0,Expense,UPI,2026,8,2026-08,August,15,Saturday,True
+2026-08-15,Food,Dinner,305.0,Expense,Cash,2026,8,2026-08,August,15,Saturday,True
+2026-08-16,Food,Snacks,335.0,Expense,Cash,2026,8,2026-08,August,16,Sunday,True
+2026-08-17,Transport,Auto fare,242.0,Expense,UPI,2026,8,2026-08,August,17,Monday,False
+2026-08-18,Food,Zomato order,105.0,Expense,UPI,2026,8,2026-08,August,18,Tuesday,False
+2026-08-18,Transport,Metro recharge,179.0,Expense,UPI,2026,8,2026-08,August,18,Tuesday,False
+2026-08-18,Transport,Auto fare,32.0,Expense,UPI,2026,8,2026-08,August,18,Tuesday,False
+2026-08-18,Shopping,Amazon order,800.0,Expense,UPI,2026,8,2026-08,August,18,Tuesday,False
+2026-08-18,Food,Cafe,426.0,Expense,UPI,2026,8,2026-08,August,18,Tuesday,False
+2026-08-19,Food,Lunch,139.0,Expense,UPI,2026,8,2026-08,August,19,Wednesday,False
+2026-08-19,Food,Snacks,239.0,Expense,UPI,2026,8,2026-08,August,19,Wednesday,False
+2026-08-19,Food,Zomato order,300.0,Expense,UPI,2026,8,2026-08,August,19,Wednesday,False
+2026-08-20,Transport,Metro recharge,123.0,Expense,Card,2026,8,2026-08,August,20,Thursday,False
+2026-08-21,Transport,Metro recharge,96.0,Expense,Cash,2026,8,2026-08,August,21,Friday,False
+2026-08-21,Food,Swiggy order,282.0,Expense,UPI,2026,8,2026-08,August,21,Friday,False
+2026-08-21,Entertainment,OTT add-on,548.0,Expense,UPI,2026,8,2026-08,August,21,Friday,False
+2026-08-22,Transport,Uber ride,118.0,Expense,UPI,2026,8,2026-08,August,22,Saturday,True
+2026-08-23,Transport,Petrol,165.0,Expense,Cash,2026,8,2026-08,August,23,Sunday,True
+2026-08-23,Food,Dinner,275.0,Expense,Card,2026,8,2026-08,August,23,Sunday,True
+2026-08-23,Food,Dinner,354.0,Expense,UPI,2026,8,2026-08,August,23,Sunday,True
+2026-08-23,Food,Snacks,198.0,Expense,UPI,2026,8,2026-08,August,23,Sunday,True
+2026-08-24,Food,Snacks,159.0,Expense,UPI,2026,8,2026-08,August,24,Monday,False
+2026-08-24,Food,Lunch,328.0,Expense,Cash,2026,8,2026-08,August,24,Monday,False
+2026-08-26,Freelance,n8n workflow client,8170.0,Income,Bank Transfer,2026,8,2026-08,August,26,Wednesday,False
+2026-08-26,Transport,Uber ride,57.0,Expense,UPI,2026,8,2026-08,August,26,Wednesday,False
+2026-08-27,Food,Snacks,50.0,Expense,Cash,2026,8,2026-08,August,27,Thursday,False
+2026-08-29,Food,Snacks,178.0,Expense,Cash,2026,8,2026-08,August,29,Saturday,True
+2026-08-30,Food,Swiggy order,176.0,Expense,UPI,2026,8,2026-08,August,30,Sunday,True
+2026-08-30,Entertainment,Outing with friends,465.0,Expense,UPI,2026,8,2026-08,August,30,Sunday,True
+2026-09-01,Salary,Monthly stipend / salary,35000.0,Income,Bank Transfer,2026,9,2026-09,September,1,Tuesday,False
+2026-09-02,Food,Lunch,163.0,Expense,UPI,2026,9,2026-09,September,2,Wednesday,False
+2026-09-02,Rent,Room rent,12000.0,Expense,UPI,2026,9,2026-09,September,2,Wednesday,False
+2026-09-03,Food,Dinner,290.0,Expense,Cash,2026,9,2026-09,September,3,Thursday,False
+2026-09-03,Shopping,Household items,235.0,Expense,Card,2026,9,2026-09,September,3,Thursday,False
+2026-09-03,Food,Swiggy order,205.0,Expense,Card,2026,9,2026-09,September,3,Thursday,False
+2026-09-03,Food,Zomato order,343.0,Expense,Card,2026,9,2026-09,September,3,Thursday,False
+2026-09-03,Transport,Bus ticket,257.0,Expense,Cash,2026,9,2026-09,September,3,Thursday,False
+2026-09-03,Entertainment,Outing with friends,764.0,Expense,Card,2026,9,2026-09,September,3,Thursday,False
+2026-09-03,Food,Cafe,214.0,Expense,Cash,2026,9,2026-09,September,3,Thursday,False
+2026-09-05,Bills,Electricity bill,885.0,Expense,UPI,2026,9,2026-09,September,5,Saturday,True
+2026-09-05,Food,Swiggy order,231.0,Expense,UPI,2026,9,2026-09,September,5,Saturday,True
+2026-09-06,Food,Dinner,243.0,Expense,Cash,2026,9,2026-09,September,6,Sunday,True
+2026-09-06,Shopping,Accessories,1788.0,Expense,Card,2026,9,2026-09,September,6,Sunday,True
+2026-09-07,Food,Groceries,283.0,Expense,Cash,2026,9,2026-09,September,7,Monday,False
+2026-09-07,Bills,Mobile recharge,299.0,Expense,UPI,2026,9,2026-09,September,7,Monday,False
+2026-09-07,Transport,Petrol,55.0,Expense,Cash,2026,9,2026-09,September,7,Monday,False
+2026-09-07,Bills,Internet bill,799.0,Expense,UPI,2026,9,2026-09,September,7,Monday,False
+2026-09-08,Food,Dinner,352.0,Expense,UPI,2026,9,2026-09,September,8,Tuesday,False
+2026-09-08,Food,Snacks,214.0,Expense,Cash,2026,9,2026-09,September,8,Tuesday,False
+2026-09-08,Transport,Petrol,78.0,Expense,UPI,2026,9,2026-09,September,8,Tuesday,False
+2026-09-09,Food,Zomato order,204.0,Expense,Card,2026,9,2026-09,September,9,Wednesday,False
+2026-09-10,Subscriptions,Cloud / domain hosting,450.0,Expense,Card,2026,9,2026-09,September,10,Thursday,False
+2026-09-10,Subscriptions,AI tools subscription,1650.0,Expense,Card,2026,9,2026-09,September,10,Thursday,False
+2026-09-11,Transport,Uber ride,145.0,Expense,UPI,2026,9,2026-09,September,11,Friday,False
+2026-09-11,Food,Snacks,220.0,Expense,UPI,2026,9,2026-09,September,11,Friday,False
+2026-09-11,Food,Cafe,290.0,Expense,UPI,2026,9,2026-09,September,11,Friday,False
+2026-09-11,Food,Lunch,253.0,Expense,Card,2026,9,2026-09,September,11,Friday,False
+2026-09-12,Freelance,Data dashboard gig,11124.0,Income,Bank Transfer,2026,9,2026-09,September,12,Saturday,True
+2026-09-12,Shopping,Amazon order,1184.0,Expense,Card,2026,9,2026-09,September,12,Saturday,True
+2026-09-13,Transport,Petrol,193.0,Expense,Cash,2026,9,2026-09,September,13,Sunday,True
+2026-09-14,Food,Cafe,268.0,Expense,UPI,2026,9,2026-09,September,14,Monday,False
+2026-09-15,Entertainment,Movie ticket,551.0,Expense,UPI,2026,9,2026-09,September,15,Tuesday,False
+2026-09-15,Food,Dinner,272.0,Expense,UPI,2026,9,2026-09,September,15,Tuesday,False
+2026-09-15,Transport,Bus ticket,46.0,Expense,Cash,2026,9,2026-09,September,15,Tuesday,False
+2026-09-16,Food,Dinner,140.0,Expense,UPI,2026,9,2026-09,September,16,Wednesday,False
+2026-09-16,Transport,Auto fare,143.0,Expense,Card,2026,9,2026-09,September,16,Wednesday,False
+2026-09-17,Food,Zomato order,214.0,Expense,Cash,2026,9,2026-09,September,17,Thursday,False
+2026-09-17,Food,Snacks,310.0,Expense,UPI,2026,9,2026-09,September,17,Thursday,False
+2026-09-18,Transport,Auto fare,220.0,Expense,Cash,2026,9,2026-09,September,18,Friday,False
+2026-09-18,Food,Lunch,255.0,Expense,Cash,2026,9,2026-09,September,18,Friday,False
+2026-09-18,Food,Snacks,245.0,Expense,UPI,2026,9,2026-09,September,18,Friday,False
+2026-09-19,Food,Snacks,206.0,Expense,Card,2026,9,2026-09,September,19,Saturday,True
+2026-09-19,Entertainment,Outing with friends,411.0,Expense,UPI,2026,9,2026-09,September,19,Saturday,True
+2026-09-19,Food,Swiggy order,210.0,Expense,UPI,2026,9,2026-09,September,19,Saturday,True
+2026-09-20,Food,Zomato order,200.0,Expense,UPI,2026,9,2026-09,September,20,Sunday,True
+2026-09-20,Food,Cafe,222.0,Expense,UPI,2026,9,2026-09,September,20,Sunday,True
+2026-09-21,Food,Snacks,153.0,Expense,UPI,2026,9,2026-09,September,21,Monday,False
+2026-09-22,Entertainment,Outing with friends,519.0,Expense,UPI,2026,9,2026-09,September,22,Tuesday,False
+2026-09-22,Transport,Auto fare,168.0,Expense,Card,2026,9,2026-09,September,22,Tuesday,False
+2026-09-22,Shopping,Clothes,1639.0,Expense,Net Banking,2026,9,2026-09,September,22,Tuesday,False
+2026-09-23,Food,Groceries,115.0,Expense,UPI,2026,9,2026-09,September,23,Wednesday,False
+2026-09-26,Food,Lunch,96.0,Expense,UPI,2026,9,2026-09,September,26,Saturday,True
+2026-09-26,Uncategorized,Vitamins,793.0,Expense,UPI,2026,9,2026-09,September,26,Saturday,True
+2026-09-26,Health,Gym day pass,1334.0,Expense,UPI,2026,9,2026-09,September,26,Saturday,True
+2026-09-26,Health,Doctor consultation,531.0,Expense,UPI,2026,9,2026-09,September,26,Saturday,True
+2026-09-27,Food,Groceries,185.0,Expense,UPI,2026,9,2026-09,September,27,Sunday,True
+2026-09-27,Food,Swiggy order,20.0,Expense,UPI,2026,9,2026-09,September,27,Sunday,True
+2026-09-29,Shopping,Amazon order,1395.0,Expense,UPI,2026,9,2026-09,September,29,Tuesday,False
+2026-09-29,Transport,Auto fare,87.0,Expense,UPI,2026,9,2026-09,September,29,Tuesday,False
+2026-09-30,Food,Zomato order,241.0,Expense,UPI,2026,9,2026-09,September,30,Wednesday,False

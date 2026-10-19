@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+.DS_Store
+data/user_entries.csv
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+.pytest_cache/
+.coverage
+htmlcov/
+.vscode/
+Thumbs.db

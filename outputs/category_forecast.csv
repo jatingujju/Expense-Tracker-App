@@ -1,0 +1,12 @@
+Category,Forecast_Next_Month,Budget,Risk
+Rent,12000.0,12000.0,OK
+Food,7437.0,6500.0,Over budget
+Shopping,3268.0,3500.0,OK
+Subscriptions,2100.0,2500.0,OK
+Bills,1914.0,3200.0,OK
+Transport,1910.0,2500.0,OK
+Entertainment,1421.0,2000.0,OK
+Health,725.0,1500.0,OK
+Uncategorized,494.0,,OK
+Education,447.0,2500.0,OK
+Travel,0.0,2500.0,OK
